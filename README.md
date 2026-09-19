@@ -10,7 +10,7 @@ This project converts two React components to TypeScript:
 
 ## Screenshot
 
-![Project Screenshot](https://pub.mini-tools.uk/1-day/b78d0c2f-2d97-4bbf-8137-d38603eb3e07.png)
+[![Screenshot-2026-09-16-110913.png](https://i.postimg.cc/wBXbtYL7/Screenshot-2026-09-16-110913.png)](https://postimg.cc/yJNT55fH)
 
 ## Tech Stack
 
